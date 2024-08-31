@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudhanva1975
+- 👋 Hi, I’m Sudhanva Purohit
 - 👀 I’m interested in aspects related to data analysis,Geneartive AI and Machine y
 - 🌱 I’m currently learning Electrical and Electronics engineering
 -  I’m looking to collaborate on the above topic
